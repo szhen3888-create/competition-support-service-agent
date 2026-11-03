@@ -93,10 +93,3 @@ npm run dev -- --host 127.0.0.1 --port 5173
 ├── docs/                 # 文档
 ├── configs/ · sql/ · docker-compose.yml
 ```
-
-## 发给别人 / 上传 GitHub 时
-
-- **发**：代码 + `docs/新手部署与使用指南.md` + `docs/目录说明.md`
-- **别发 / 已在 .gitignore**：`backend/.env`（含 API Key）、`.venv/`、`node_modules/`、`*.db`、`exports/`、`uploads/`
-- 克隆后请 `copy backend\.env.example backend\.env`，自行填写 `LLM_API_KEY`
-- 演示账号密码见文档，仅供本地试用，上线请改密并更换 `JWT_SECRET`
