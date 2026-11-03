@@ -1,0 +1,30 @@
+# RAG 导入与检索配置（知识外置，不硬编码进业务逻辑）
+chunk:
+  size: 600
+  overlap: 80
+
+retrieval:
+  top_k: 5
+  max_rewrite: 2
+  engine: bm25   # 当前实现：jieba + BM25；可后续切换 hybrid/chroma
+
+supported_formats:
+  - pdf
+  - docx
+  - doc
+  - xlsx
+  - xls
+  - txt
+  - md
+  - markdown
+  - csv
+
+metadata_fields:
+  - title
+  - competition
+  - year
+  - doc_type
+
+citation:
+  required: true
+  refuse_when_insufficient: true

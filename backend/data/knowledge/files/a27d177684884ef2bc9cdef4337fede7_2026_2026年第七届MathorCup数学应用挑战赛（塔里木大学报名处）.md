@@ -1,0 +1,48 @@
+# 2026年第七届MathorCup数学应用挑战赛（塔里木大学报名处）
+
+- 来源：赛氪公开竞赛广场
+- 原文链接：https://www.saikr.com/vse/60454
+- 抓取时间：2026-10-27T13:33:52.546247+08:00
+- 年份：2026
+- contest_id：60454
+- 主办方：见正文/列表
+- 报名时间：2026-10-10 08:00 ~ 2026-10-15 08:00
+- 比赛时间：2026-10-23 18:00 ~ 2026-10-30 20:00
+- 竞赛级别：省级
+
+## 列表字段（原始）
+
+```json
+{
+  "contest_id": 60454,
+  "contest_name": "2026年第七届MathorCup数学应用挑战赛（塔里木大学报名处）",
+  "contest_url": "vse/60454",
+  "is_exam": 0,
+  "is_contest_status": 1,
+  "regist_start_time": 1791590400,
+  "regist_end_time": 1792022400,
+  "contest_start_time": 1792749600,
+  "contest_end_time": 1793361600,
+  "regist_button_name": "报名时间",
+  "contest_button_name": "比赛时间",
+  "is_show_regist_time": 1,
+  "thumb_pic": "https://publicqn.saikr.com/contest/thmub/cropper/upload/1791614822595images.png",
+  "level_name": "省级",
+  "organiser": "中国优选法统筹法与经济数学研究会",
+  "organiser_name": "主办方",
+  "enter_range": "全国",
+  "contest_class_first": 1001,
+  "contest_class_second": "mcm",
+  "contest_class_second_id": 1,
+  "time_status": 22,
+  "time_name": "比赛进行中",
+  "rank": 0,
+  "is_new": 0,
+  "module": 0,
+  "labels": []
+}
+```
+
+## 详情页正文摘录
+
+（未能抓取详情正文，仅保留列表信息）
